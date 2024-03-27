@@ -25,12 +25,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="40" alt="dot-net logo"  />
   <img width="12" />
-</div>
-
-###
-
-<h2 align="left">Linkedin</h2>
-
 ###
 
 <div align="left">
